@@ -1,0 +1,11 @@
+{
+  "name": "circles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel serve index.html --port 8080"
+  },
+  "author": "",
+  "license": "ISC"
+}
